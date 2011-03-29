@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question9;
+package ru.habrahabr.blogs.java.ocpjp1.question9;
 
 /**
  * В результате выполнения данного кода:

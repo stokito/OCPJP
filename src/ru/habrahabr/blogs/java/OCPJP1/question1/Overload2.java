@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question1;
+package ru.habrahabr.blogs.java.ocpjp1.question1;
 
 /**
  * Вот немного другая ситуация:

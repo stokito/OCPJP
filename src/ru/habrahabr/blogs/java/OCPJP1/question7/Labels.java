@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question7;
+package ru.habrahabr.blogs.java.ocpjp1.question7;
 
 /**
  * Данный код:

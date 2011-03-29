@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question8;
+package ru.habrahabr.blogs.java.ocpjp1.question8;
 
 /**
  * Created by IntelliJ IDEA.

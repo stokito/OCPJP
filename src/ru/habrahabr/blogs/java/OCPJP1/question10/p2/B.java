@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question10.p2;
+package ru.habrahabr.blogs.java.ocpjp1.question10.p2;
 
 /**
  * В результате выполнения класса В мы получим:
@@ -9,7 +9,7 @@ package ru.habrahabr.blogs.java.OCPJP1.question10.p2;
  *  5. Все ответы неверны
  */
 
-import ru.habrahabr.blogs.java.OCPJP1.question10.p1.*;
+import ru.habrahabr.blogs.java.ocpjp1.question10.p1.*;
 
 public class B extends A {
     public void process(A a) {

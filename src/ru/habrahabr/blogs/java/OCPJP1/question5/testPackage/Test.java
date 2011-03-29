@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question5.testPackage;
+package ru.habrahabr.blogs.java.ocpjp1.question5.testPackage;
 
 /*
 * Прошлый вопрос уже когда-то поднимался на хабре, поэтому этот вопрос для тех, кому был не интересен предыдущий:
@@ -13,8 +13,8 @@ package ru.habrahabr.blogs.java.OCPJP1.question5.testPackage;
 class Test {
     public static void main(String[] args) {
         String hello = "Hello";
-        System.out.print((ru.habrahabr.blogs.java.OCPJP1.question5.testPackage.Other.hello == hello) + " ");
-        System.out.print((ru.habrahabr.blogs.java.OCPJP1.question5.other.Other.hello == hello) + " ");
+        System.out.print((ru.habrahabr.blogs.java.ocpjp1.question5.testPackage.Other.hello == hello) + " ");
+        System.out.print((ru.habrahabr.blogs.java.ocpjp1.question5.other.Other.hello == hello) + " ");
         System.out.print((hello == ("Hel" + "lo")) + " ");
         String lo = "lo";
         System.out.print((hello == ("Hel" + lo)) + " "); // runtime

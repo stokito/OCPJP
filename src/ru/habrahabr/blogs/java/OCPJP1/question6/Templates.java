@@ -1,4 +1,4 @@
-package ru.habrahabr.blogs.java.OCPJP1.question6;
+package ru.habrahabr.blogs.java.ocpjp1.question6;
 
 import java.util.List;
 
